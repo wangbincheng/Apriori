@@ -26,3 +26,7 @@ Apriori 算法其实就是查找频繁项集 (frequent itemset) 的过程。
 4）判断失败，K=K+1，重复1-3
 
 ![](Apriori内容.png)
+
+# FG-Growth算法
+
+(https://www.cnblogs.com/zhengxingpeng/p/6679280.html)[FG-Growth算法]
