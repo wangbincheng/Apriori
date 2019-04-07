@@ -29,4 +29,4 @@ Apriori 算法其实就是查找频繁项集 (frequent itemset) 的过程。
 
 # FG-Growth算法
 
-(https://www.cnblogs.com/zhengxingpeng/p/6679280.html)[FG-Growth算法]
+[FG-Growth算法](https://www.cnblogs.com/zhengxingpeng/p/6679280.html)
