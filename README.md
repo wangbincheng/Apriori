@@ -1,6 +1,10 @@
 # Apriori
 Apriori算法实例-挖掘电影导演的关联规则
 
+movie_download.py：下载某个导演的电影数据集
+
+movie_apriori.py：用 Apriori 算法来挖掘频繁项集和关联规则
+
 # Apriori 概念
 
 关于支持度、置信度和提升度
