@@ -12,3 +12,9 @@ Apriori算法实例-挖掘电影导演的关联规则
 **提升度**代表的是“商品 A 的出现，对商品 B 的出现概率提升了多少”。
 
 提升度 (A→B)= 置信度 (A→B)/ 支持度 (B)
+
+# Apriori 的工作原理
+
+Apriori 算法其实就是查找频繁项集 (frequent itemset) 的过程。
+
+![](Apriori内容.png)
